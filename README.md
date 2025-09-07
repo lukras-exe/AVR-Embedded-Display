@@ -43,4 +43,4 @@ The main program initializes the UART communication, configures IO ports for but
 - `SetCursor()`: Positions the cursor at specific coordinates
 
 
-!(/IMG_6054.JPG)
+![](/IMG_6054.JPG "Embedded display")
