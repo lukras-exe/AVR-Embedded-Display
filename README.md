@@ -41,3 +41,6 @@ The main program initializes the UART communication, configures IO ports for but
 - `put_command_LCD()`: Sends commands to the LCD
 - `putstring_LCD()`: Displays text strings on the LCD
 - `SetCursor()`: Positions the cursor at specific coordinates
+
+
+!(/IMG_6054.JPG)
